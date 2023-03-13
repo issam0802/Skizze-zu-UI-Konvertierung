@@ -1,0 +1,15 @@
+Keras
+nltk
+opencv-python
+numpy==1.22.2
+h5py
+matplot==0.1.9
+matplotlib==3.6.2
+matplotlib-inline==0.1.6
+Pillow==9.3.0
+scipy==1.8.0
+torch==1.13.1
+torchaudio==0.13.1
+torchvision==0.14.1
+tornado==6.2
+tqdm==4.64.1
