@@ -17,6 +17,10 @@ Bevor Sie das Modell ausführen können, müssen Sie das Dataset installieren. D
 ```
 bash get_data.sh
 ```
+## Install dependencies
+````
+pip install -r requirements.txt
+````
 ## Load pre-trained weights
 Um das Modell mit den vortrainierten Gewichten zu verwenden, laden Sie die Gewichte von der [Link to pre-trained weights] herunter und speichern Sie sie im Ordner "weights".
 
